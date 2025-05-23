@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+## About Me
+
+# Occupation
+Robotics Coordinator at **Texas Tech**
+
+# Robotics Experience
+FTC Alumni
+FRC Alumni
+
+
+
+
 <!--
 **RoboRaiderG/RoboRaiderG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
